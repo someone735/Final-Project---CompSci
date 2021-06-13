@@ -1,0 +1,43 @@
+🅆 🄷 🄰 🅃  🄸 🅂  🄴 🄽 🄲 🅁 🅈 🄿 🅃 🄸 🄾 🄽 ❔:
+Encryption is a method of hiding information by converting it 
+into a special code.
+
+🄷 🄾 🅆  🄳 🄾 🄴 🅂  🄴 🄽 🄲 🅁 🅈 🄿 🅃 🄸 🄾 🄽  🅆 🄾 🅁 🄺 ❔: 
+Encryption works by taking in a message and using an encryption 
+algorithm or cipher and a key, the cipher changes the message 
+according to the key and creates a unique scrambled message.
+
+🅆 🄷 🄴 🄽  🅆 🄰 🅂  🄴 🄽 🄲 🅁 🅈 🄿 🅃 🄸 🄾 🄽  🄵 🄸 🅁 🅂 🅃  🅄 🅂 🄴 🄳 ❔:
+One of the earliest uses of encryption dates back to 600 BC 
+when ancient Spartans would wrap a leather strap around a pole 
+and write their message on it before sending it off. When 
+unwrapped or wrapped around a different pole, the message 
+would be gibberish to another person, but when wrapped around 
+the correct pole, the message would be decrypted.
+
+🅆 🄷 🅈  🄸 🅂  🄴 🄽 🄲 🅁 🅈 🄿 🅃 🄸 🄾 🄽  🄸 🄼 🄿 🄾 🅁 🅃 🄰 🄽 🅃 ❔:
+Encryption is very beneficial when it comes to protecting 
+one’s information for it encodes it to keep the information 
+safe and the receiver can verify if the message has been 
+tampered with by using a pre-agreed upon key. 
+
+🅆 🄷 🄰 🅃  🄸 🅂  🄰 🄽  🄴 🅇 🄰 🄼 🄿 🄻 🄴  🄾 🄵  🄰  🄲 🄸 🄿 🄷 🄴 🅁 ❔:
+An example of a cipher would be Ceaser’s Cipher. Caesar’s Cipher 
+is based on taking letters from the original message and 
+shifting them a certain amount in the alphabet which leaves us 
+with an encoded message. You can see a version of this when 
+using the encryption and decryption functions in the main menu.
+
+
+Information about encryption
+What do you want to know?
+
+1. 🅆 🄷 🄰 🅃  🄸 🅂  🄴 🄽 🄲 🅁 🅈 🄿 🅃 🄸 🄾 🄽 ❔:
+
+2. 🄷 🄾 🅆  🄳 🄾 🄴 🅂  🄴 🄽 🄲 🅁 🅈 🄿 🅃 🄸 🄾 🄽  🅆 🄾 🅁 🄺 ❔: 
+
+3. 🅆 🄷 🄴 🄽  🅆 🄰 🅂  🄴 🄽 🄲 🅁 🅈 🄿 🅃 🄸 🄾 🄽  🄵 🄸 🅁 🅂 🅃  🅄 🅂 🄴 🄳 ❔:
+
+4. 🅆 🄷 🅈  🄸 🅂  🄴 🄽 🄲 🅁 🅈 🄿 🅃 🄸 🄾 🄽  🄸 🄼 🄿 🄾 🅁 🅃 🄰 🄽 🅃 ❔:
+
+5. 🅆 🄷 🄰 🅃  🄸 🅂  🄰 🄽  🄴 🅇 🄰 🄼 🄿 🄻 🄴  🄾 🄵  🄰  🄲 🄸 🄿 🄷 🄴 🅁 ❔:

@@ -1,0 +1,12 @@
+Codebreaker
+
+The goal of the game is to guess the randomized 4 digit number.
+This is done by guessing what the 4 digit number is and using 
+the information provided to solve the code.
+
+When you submit a guess, a string would appear in the column beside it 
+with characters hinting to what is right, sort of right, or wrong.
+
+In the string, a number would represent a correct number and position.
+A 'Y' indicates a correct number but wrong place, and a 'X'
+represents a wrong number.

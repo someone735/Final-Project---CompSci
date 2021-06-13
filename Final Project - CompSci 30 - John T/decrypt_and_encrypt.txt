@@ -1,0 +1,10 @@
+Encryption algorithm
+
+Input a string and this function will encrypt it using
+a version of the Caesar's Cipher.
+
+
+Decryption algorithm
+
+Input a string and this function will decrypt it using
+a version of the Caesar's Cipher.
